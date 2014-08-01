@@ -1,0 +1,1707 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+
+<!--
+The person or persons who have associated work with this document (the
+"Dedicator" or "Certifier") hereby either (a) certifies that, to the
+best of his knowledge, the work of authorship identified is in the
+public domain of the country from which the work is published, or (b)
+hereby dedicates whatever copyright the dedicators holds in the work of
+authorship identified below (the "Work") to the public domain. A
+certifier, moreover, dedicates any copyright interest he may have in the
+associated work, and for these purposes, is described as a "dedicator"
+below.
+
+
+A certifier has taken reasonable steps to verify the copyright status of
+this work. Certifier recognizes that his good faith efforts may not
+shield him from liability if in fact the work certified is not in the
+public domain.
+
+
+Dedicator makes this dedication for the benefit of the public at large
+and to the detriment of the Dedicator's heirs and successors. Dedicator
+intends this dedication to be an overt act of relinquishment in
+perpetuity of all present and future rights under copyright law, whether
+vested or contingent, in the Work. Dedicator understands that such
+relinquishment of all rights includes the relinquishment of all rights
+to enforce (by lawsuit or otherwise) those copyrights in the Work.
+
+
+Dedicator recognizes that, once placed in the public domain, the Work
+may be freely reproduced, distributed, transmitted, used, modified,
+built upon, or otherwise exploited by anyone for any purpose, commercial
+or non-commercial, and in any way, including by methods that have not
+yet been invented or conceived.
+-->
+
+  <header
+    creationtool="OmegaT"
+    creationtoolversion="2.0.1"
+    segtype="sentence"
+    o-tmf="OmegaT TMX"
+    adminlang="EN-US"
+    srclang="PL"
+    datatype="plaintext"
+  >
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>The Project Gutenberg eBook of Moja Pierwsza Bitwa, by Adam Mickiewicz.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>The Project Gutenberg eBook of My First Battle, by Adam Mickiewicz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>MOJA PIERWSZA BITWA</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>My First Battle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>TOWARZYSTWO WYDAWNICZE „IGNIS”.—E.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>Publishing company &quot;IGNIS&quot;.—E.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>WENDE i S-ka,<it pos='begin' x='0'>&lt;br0&gt;</it></seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>WENDE &amp; Co.,<ph x='0'>&lt;br0/&gt;</ph></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>WARSZAWA.—M.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>WARSAW.—M.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>NIEMIERKIEWICZ, POZNAŃ—H.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>NIEMIERKIEWICZ, POZNAŃ--H.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>KSIĘGARŃ KRESOWYCH, TORUŃ</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>Borderland Booksellers, TORUŃ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Moja pierwsza bitwa.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>My First Battle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>OPOWIADANIE SIERŻANTA.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>A Sergeant's Story.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Zazdroszczą Atylli, który stoczył tysiąc bitew, a w tysiącznej jeszcze czuł w sobie to, co nazywał gaudia certaminum, czyli rozkosz rzezi.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>They envy Attila, who fought a thousand battles, and in the thousandth still felt that, which he called gaudia certaminum, that is, the delight in the slaughter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Oj, był to krwawy rozpustnik ten stary hetman!</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>Oh, that old general was a lecher of blood.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Co się mnie tyczy, piastującego stopień sierżanta lekkiej artylerji, wyznaję, że zaprawdę zakochany byłem w wojence, ale tylko przez pierwszy tydzień mojego wojennego zawodu, i że w Atyllowej rozkoszy raz tylko jeden jedyny zasmakowałem.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>As far as I am concerned, holding the rank of light artillery sergeant, I confess, that I was truly in love with war, but only during the first week of my military career, and that only one single time I tasted Attila's delight.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Z tej to przyczyny nigdy mi nie wyjdzie z pamięci mój miodowy tydzień i pierwsza bitwa.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>For this reason my honeymoon and first battle will never leave my memory.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Pierwsza bitwa ma szczególniejsze podobieństwo z pierwszą miłością.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>The first battle has the most particular similarity to first love.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Ileż nadziei!</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>How many hopes!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>ile złudzeń!</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>how many illusions!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>przed tą uroczystą akcją, która rozstrzyga o losie narodów, lada rekrut czuje się powołanym do odegrania co najmniej roli… jakiego bohatera historji lub romansu.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>before this ceremonial action, which resolves the fate of nations, any recruit feels obliged  to play at least a role… as a hero of history or a romance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Przychodzi wreszcie do rozprawy i stajesz do niej z niecierpliwością i pewnym niepokojem, doznając <bpt i='0' x='0'>&lt;s0&gt;</bpt><bpt i='1' x='1'>&lt;a1&gt;</bpt>[3]<ept i='1'>&lt;/a1&gt;</ept><ept i='0'>&lt;/s0&gt;</ept> raz trwogi śmiertelnej, to znowu szalonej wesołości; już cię strach przeszywa, już cię podnosi pycha tryumfatora.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>It finally comes to the trial and you stand before it with impatience and a certain anxiety, experiencing once mortal terror, then again a crazed joy; now fear pierces you, now the pride of the triumphant picks you up..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>W jednej godzinie przechodzisz przez tłumy wzruszeń, i zbierasz wspomnienia na całe życie!</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>In one hour you pass through crowds of emotions, and you collect keepsakes for your whole life!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>lecz aby to czuć z całą mocą, trzeba mieć serce dziewicze, serce rekruckie.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>but in order to feel it in full force, you must have the heart of a virgin, the heart of a recruit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Powiedział ktoś, że każdy człowiek może skomponować dobry romans, opowiadając tylko po prostu historję swej pierwszej miłości.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>Someone said that every man can compose a good romance, telling only the simple story of his first love.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>To postrzeżenie zachęciło mię do opisania pierwszej bitwy, w której byłem.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>This insight encouraged me to describe the first battle, in which I was.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Trzeba wiedzieć, że ta bitwa jest tylko epizodem sławnej wojny, że z niej odnieśliśmy świetne zwycięstwo, i że w swoim czasie zjednała nam podziw ludów europejskich.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>You need to know that this battle is only an episode of a famous war, that in it we achieved a great victory, and that in its time it won us the admiration of the European people.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Wprawdzie dawne to czasy, bo ludy dobrze już zapomniały i o naszych klęskach i o naszych tryumfach.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>Admittedly, these are times long past, because people have well forgotten both about our defeats and about our triumphs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Mimo tego żołnierz polski nigdy nie zapomni o bitwie pod Stoczek.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>In spite of this, the Polish soldier will never forget about the Battle of Stoczek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Po rewolucji 29 listopada<bpt i='0' x='0'>&lt;a0&gt;</bpt><ept i='0'>&lt;/a0&gt;</ept><bpt i='1' x='1'>&lt;a1&gt;</bpt>[*]<ept i='1'>&lt;/a1&gt;</ept> postanowiłem wstąpić w szeregi, i rozmyślałem, czy do piechoty, czy do jazdy?</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>After the revolution of the 29th of November, I decided to join the ranks, and I pondered, whether to the infantry, or to the cavalry?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Ażeby zrobić stanowczy wybór, przebiegałem ulice Warszawy, przypatrując się bacznie mundurom różnych pułków.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>To make a definite choice, I ran through the streets of Warsaw, eyeing closely the uniforms of several regiments.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Naprzód zatrzymałem się przed bataljonem grenadjerów, którzy maszerowali w ściśniętych szeregach, milcząco, w porządku i poważnie.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>I stopped ahead of a battalion of grenadiers, who marched in tight rows, silently, in order and seriously.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Wszystko wąsacze, z szewronami na ramionach.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>Each moustachiod, with chevrons on his shoulders.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Były to resztki legjonów napoleońskich.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>These were the remains of the Napoleonic legions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Kiedy przechodzili, ustępowano im <bpt i='2' x='2'>&lt;s2&gt;</bpt><bpt i='3' x='3'>&lt;a3&gt;</bpt>[4]<ept i='3'>&lt;/a3&gt;</ept><ept i='2'>&lt;/s2&gt;</ept> z uszanowaniem, i szeptano w tłumie: „To mi żołnierze!</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>As they passed, they were yielded to with the utmost respect, and they were whispering in the crowd: &quot;There are my soldiers!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>to nasi obrońcy!” Zazdroszczę im, pomyślałem, piękna to rzecz być grenadjerem!</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>there are our defenders!&quot; I envy them, I thought, it's a beautiful thing to be a grenadier!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>I zbliżyłem się do oddziału, a zająwszy miejsce obok dobosza, maszerowałem krokiem grenadjerskim, upatrując komendanta, któremu chciałem natychmiast ofiarować moje służby.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>And I approached the division, and having taken the place beside the drummer, I marched in the grenadiers' step, singling out the commander, to whom I immediately wished to offer my services.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg><bpt i='0' x='0'>&lt;a0&gt;</bpt><bpt i='1' x='1'>&lt;s1&gt;</bpt>[*]<ept i='1'>&lt;/s1&gt;</ept><ept i='0'>&lt;/a0&gt;</ept> 1830 r.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>1830.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Wtem, na drugim końcu ulicy, ukazał mi się nowy meteor wojskowy.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>Suddenly, on the other side of the street, a new military meteor appeared to me.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Był to krakus na białym koniu, w białej sukmance, w czerwonej czapeczce z białem piórkiem, który jak łabędź przerzynał czarne fale tłoczących się mieszczuchów.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>He was a krakus on a white horse, in a white sukmana, in a red cap with a white feather, which cut like a swan through black waves of crowding townsfolk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Ślicznie wywijał on koniem; pieszych witał skinieniem głowy, z kawalerzystami ściskał się za ręce, a pięknym damom, stojącym w oknach, posyłał wdzięczne pocałunki.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>He turned his horse beautifully; he welcomed pedestrians with a nod, with cavalrymen squeezed hands, and to beautiful ladies, standing in windows, sent grateful kisses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Wszystkie oczy zwróciły się ku niemu; mężczyźni klaskali, kobiety uśmiechały się w milczeniu; a piękny krakus stał się bożyszczem chwili.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>All eyes turned towards him; men clapped, women smiled in silence; and the beautiful Krakus became the god of the moment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Przyszło mi zaraz na myśl, że w mundurze krakowskim na mój wiek i wzrost będzie mi bardziej do twarzy, A tak objawiło mi się moje właściwe powołanie: Bóg mię stworzył krakusem!</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>It came to my mind right away, that a Krakus' uniform at my age and height would suit me better, and so my true calling manifested itself: God had made me a Krakus!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Zwróciłem się więc w stronę koszar jazdy; ale w połowie drogi wpadłem w niezmierny tłum, który mię porwał ze sobą i uniósł ku rogatkom.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>So I turned in the direction of the cavalry barracks; but halfway across the road I fell into the immeasurable crowd who captured me into itself and bore towards the tollbooths. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Lud się cisnął na spotkanie nowo nadciągających szeregów.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>The people pressed to meet the newly approaching rows.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Osobliwsza figura jechała na przodzie; był to stary kapucyn w habicie i na koniu, w jednej ręce z lancą a drugą błogosławiący krzyżem <bpt i='0' x='0'>&lt;s0&gt;</bpt><bpt i='1' x='1'>&lt;a1&gt;</bpt>[5]<ept i='1'>&lt;/a1&gt;</ept><ept i='0'>&lt;/s0&gt;</ept> lud, który mu nogi całował.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>A stranger figure rode at the front; it was it is an old Capuchin in habit and on a horse, in one hand a lance and the other blessing people with a cross, who kissed his legs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Za kapucynem postępowało tysiąc strzelców z lasów augustowskich.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>Behind the Capuchin followed a thousand archers from the Augustów forests.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Mieli przewieszone dubeltówki i wielkie torby borsucze z pazurami i wyszczerzonemi zębami, bielejęcemi na zielonych kurtkach.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>They had slung double-barrelled guns and badger skin bags with claws and bared teeth, whitening on green jackets.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Drugi tysiąc wieśniaków, uzbrojonych w krzywe kosy i siekiery zamykał pochód.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>Another thousand villagers, armed with crooked scythes and axes, brought up the rear of the procession.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Nigdy wejście najpiękniejszych pułków, nawet wejście księcia Józefa na czele zwycięskich legjonów nie wzbudziło takiego zapału, jak ten, z którym Warszawianie witali torby borsucze i łyczane łapcie.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>Never had the entrance of the most beautiful regiments, even the entrance of Prince Józef at the head of victorious legions, aroused such enthusiasm, as this, with which the people of Warsaw greeted badger skin bags and bark clogs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Nie były to już oklaski, ani uśmiechy, ale krzyki, grzmiące hura!</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>Now there wasn't applause, or smiles, but shouts, thundering hurrah!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>i błogosławieństwa, pomieszane z głośnym płaczem.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>and blessings, mixed with loud crying.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Lud bowiem dziwnym swoim instynktem umiał schwycić wzniosłą i piękną stronę obrazu.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>Because the people, surprised by their own instincts, could seize the noble and beautiful side of the image.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Na widok tych kapłanów, tych rolników, którzy porzucili cele klasztorne i swoje bory, ażeby bić nieprzyjaciół ojczyzny, lud zrozumiał całą grozę niebezpieczeństwa, a oraz pojął z całą ufnością, że to jedyny środek obrony.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>At the sight of these priests, of these farmers who had left monastic cells and their forests, in order to beat the enemies of the homeland, people understood the whole horror of danger, and also comprehended with complete trust that it was the only means of defense.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Wzięła mię nagła pokusa porwać natychmiast za kosę lub dubeltówkę i stanąć do szeregu z chłopami, aby z nimi podzielić tryumfalne wejście do stolicy.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>I was overcome by a sudden temptation to steal immediately behind the scythe or double-barrelled gun and to join the row with the peasants in order to share with them the triumphant entry to the capital.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Ale jakże to zrobić?</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>But how to do it?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>jak nadać sobie ruchy zuchowate i wyzywające mazowieckiego kosyniera, lub wyraz ponury i dziki strzelca z nad Niemna?</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>how to fit myself in with the bold and taunting movements of Mazowian scythe-bearers, or the grim expressions and wild shooters from the Nieman?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Jak wyrównać mu wzrostem i szerokością pleców?</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>How to match them in the height and breadth of their backs?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>wśród tych olbrzymów wyglądałbym, jak królik między wilkami.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>amongst these giants I would look like a rabbit among wolves.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Cóż więc pocznę ze <bpt i='0' x='0'>&lt;s0&gt;</bpt><bpt i='1' x='1'>&lt;a1&gt;</bpt>[6]<ept i='1'>&lt;/a1&gt;</ept><ept i='0'>&lt;/s0&gt;</ept> sobą?</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>So what will I do with myself?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Czy mam być krakusem, czy grenadjerem!</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>Should I be a Krakus, or a grenadier!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Niepewność ta dużo mię kosztowała.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>This uncertainty cost me dearly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Znajomy mi pułkownik spotkał się ze mną w przechodzie i klepiąc mię po ramieniu, rzekł: „Dowodzę oddziałem partyzantów; część moich ludzi wyszła już w pole, ja sam dziś wyruszam z Warszawy, potrzebuję kanonierów; może wiesz, gdzie ich znaleźć?</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>A colonel of my acquaintance met me in passing, and patting me on the shoulder, said: &quot;I am in  command of a guerrilla unit; some of my people have already left for the field, I myself am setting off today from Warsaw, I need gunners; perhaps you know where I can find them?&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>—Wiem o jednym, rzekłem, przybierając postawę wojskową; potrzebujesz kanoniera, oto go masz!</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>—I know about one, I said, assuming a military posture; you need a gunner, here you have him!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>—Zgoda!</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>—Agreed!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>rzekł pułkownik, naciągaj mundur i staw się u mnie dziś wieczór punkt o dziesiątej, czy rozumiesz?</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>the colonel said, put on a uniform and be at my place this evening at ten o'clock exactly, do you understand?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>W taki sposób werbowano żołnierzy w czasie naszego powstania.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>Soldiers were being recruited in this manner during the uprising.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Tegoż dnia o jedenastej w nocy maszerowałem umundurowany przy armatach.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>That day at eleven at night I marched in uniform by the cannons.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>W ciągu marszu ćwiczyliśmy się w użyciu broni, a ja tyle dokładałem pilności, że po trzech dniach mianowano mię sierżantem i pod moje rozkazy oddano armatę.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>During the march we trained ourselves in the use of weapons, and I added so much urgency, that after three days I was appointed sergeant and a cannon was placed under my orders.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Zawistni utrzymywali, że stopień mój zawdzięczałem osobliwym względom pułkownika.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>The envious claimed that I had owed my rank to the colonel's peculiar considerations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Bądź co bądź sam się ździwiłem, zmieszałem i niemal zawstydziłem na tak nagły awans.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>After all, I myself was surprised, confused and almost ashamed at such a sudden promotion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Zawróciło mi się w głowie i dopiero po kilku godzinach osłupienia zacząłem uczuwać wpływ nowej mojej godności.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>My head spun and only after a few hours of  astonishment did I start to feel the influence of my new dignity.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Mimowolnie przybrałem minę marsową i poważniejszą; wyciągnąwszy uroczyście prawą rękę, położyłem ją na mojej własności, na wylocie <bpt i='0' x='0'>&lt;s0&gt;</bpt><bpt i='1' x='1'>&lt;a1&gt;</bpt>[7]<ept i='1'>&lt;/a1&gt;</ept><ept i='0'>&lt;/s0&gt;</ept> armaty.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>Involuntarily I adopted a martial and more serious face; having gravely stretched my right hand, I laid it on my property, on the muzzle of the cannon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Kawał ten bronzu, myślałem sobie, będzie filarem w świątyni mojej sławy; będzie pierwszym stopniem w rycerskim zawodzie, a może i na tron mię zawiedzie!</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>This large piece of bronze, I thought to myself, will be a pillar in the temple of my fame; will be the first step in my knightly profession, or perhaps even lead me to the throne!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Dobrze wycelowane działo rozstrzyga nieraz los wojny.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>A well aimed cannon often settles the fate of a war.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>A Napoleon od czegóż zaczął, jeżeli nie od kanoniera?</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>And how did Napoleon get his start, if not as a gunner?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Pełen tych marzeń zakochałem się w mojej spiżowej armacie jak w pannie i odtąd zawsze byłem przy niej.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>Full of these dreams I fell in love with my bronze cannon as if with a young girl and from then on I was always beside her.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Badałem jej wady i przymioty, roztrząsałem charakter i poznałem najdokładniej cały jej skład i naturę tak fizyczną jak moralną.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>I examined her defects and attributes, I debated character and got to know most precisely her entire composition and nature; physical as moral.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Tak dobrze wbiła mi się w pamięć, że zrobiłbym z pamięci jej portret.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>She is so well engraved in my memory, that I could paint her portrait from memory.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Dźwięk jej głosu znałem tak dobrze, żebym go mógł był rozróżnić wśród huku najżywszej kanonady, choćby pod Lipskiem, lub Ostrołęką.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>I knew sound of her voice so well that I could have recognised it amongst the roar of the liveliest cannonade, even if it were Leipzig, or Ostrołęka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Kochana moja armatko!</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>My beloved cannon!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>cóż stało się z tobą?</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>what happened to you?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>w czyjeś ręce popadła?</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>into whose hands did you fall?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Zapewne nikt cię tak nie popieści, jak ja cię pieściłem.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>Certainly nobody will caress you as I did..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Ta myśl mię jedynie pociesza.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>Only that thought comforts me.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Była to wprawdzie niewielka ośmiofuntówka, ale dla mnie była ogromną, bo ciężarna całą moją przyszłością.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>She was admittedly a little eight pounder, but to me she was huge, as she was pregnant with my entire future.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Zresztą dobrze osadzona, łatwa do manewrowania i dziwnie celnego strzału.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>As well as well settled, simple to manoeuvre and with a strangely accurate shot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Cały dzień ledwo mi wystarczał na spełnienie obowiązków przy kochanej armatce, a i przez noc nie przestawałem myśleć o tym przedmiocie mojej miłości.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>A whole day was barely enough for me in fulfilling my duties by the beloved cannon, and at night I didn't stop thinking about the object of my love.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>I tak, jednej nocy śni mi się bitwa, a naprzeciw mię kogoż widzę?</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>And so, one night I dreamed of battle, and who did I see opposite me?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>feldmarszałka Dybicza!</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>Field Marshall von Diebitsch!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Zaraz biorę na cel—paf!</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>At once I take aim—poof!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>i moja kula przecina go na dwie połowy.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>and my cannon ball cuts him in two.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Puszczam się, aby oderwać mu głowę i jeszcze ciepłą zanieść do naczelnego <bpt i='2' x='2'>&lt;s2&gt;</bpt><bpt i='3' x='3'>&lt;a3&gt;</bpt>[8]<ept i='3'>&lt;/a3&gt;</ept><ept i='2'>&lt;/s2&gt;</ept> wodza, księcia Radziwiłła; ale trup Dybicza tak ostro się bronił, że aż wybiłem się ze snu i w rzeczywistości, zamiast głowy moskiewskiego wodza, trzymałem głowę śpiącego obok mnie kanoniera.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>I took off, to tear off his head and carry it still warm to our Commander-in-Chief, Prince Radziwiłł; but the corpse of von Diebitsch was so heavily defended, that until I awoke completely into reality, instead of the head of the Muscovite leader, I held the head of the gunner sleeping opposite me.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Innej nocy gorsza rzecz mi się zdarzyła: śniłem, że jazda moskiewska wpadła na nas niespodziewanie; mnie naprzód zabito, potem wycięto moich kanonierów, a nareszcie kirasjer moskiewski siadł na mojej armacie jak na koniu i zaczął ją zagwożdżać, spoglądając na mnie okiem pogardy.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>Another night a worse thing happened to me: I dreamed that the Muscovite cavalry fell on us unexpectedly; they killed me in advance, then cut down my gunners, and finally a Muscovite cuirassier mounted my cannon like a horse and started to plug it, looking at me with contemptuous eyes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Wtedy uczułem wszystkie męczarnie męża Lukrecji i męczarnie ojca Wirginji.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>Then I felt all the torments of the husband of Lucretia and the torments of the father of Virginia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Chociaż byłem już trupem zimnym i skostniałym, niemniej dobywałem wszystkich sił, aby dać znak życia i pasując się ze sobą, udało mi się nareszcie tak tęgo wrzasnąć, żem się i sam przebudził i zaalarmowałem cały obóz.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>Although I was already a cold and stiff corpse, nevertheless I gathered all my strength to give some sign of life and adjusting to myself, I managed at last to scream so strongly, that I both woke myself and alarmed the entire camp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Zerwawszy się na nogi, a właśnie dnieć poczynało, szukam oczyma mojej armaty i widzę z niemałą radością, że jest, że spoczywa wolna i spokojna na swej lawecie.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>Having jumped to my feet, and just as day was beginning to break, my eyes seek my cannon and I see with no little joy, that she's there, that she sits free and calm on her carriage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Otwarta jej paszcza zdawała się wciągać chłodek poranka, a lśniąca powierzchnia odbijała pierwsze promienie słońca.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>Her open jaws seemed to draw the coolness of the morning, and the gleaming surface reflected the first rays of sunshine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Położyłem się znowu na mokrej ziemi, ale tym razem przez ostrożność trzymałem ręką za sprychę, ażeby bronić mego skarbu przeciw rzeczywistej lub sennej napaści.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>I lay down again on the wet ground, but this time as a precaution I held on to a spoke.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Tak przeszedł cały tydzień, mój pierwszy tydzień po zaślubieniu pięknej ośmiofuntówki: tydzień miodowy sierżanta artylerji, najszczęśliwszy tydzień w mojem życiu!</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>So passed a whole week, my first week after marrying the beautiful eight pounder: the honeymoon of an artillery sergeant, the happiest week of my life!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Każdą chwilę miałem zajętą, <bpt i='0' x='0'>&lt;s0&gt;</bpt><bpt i='1' x='1'>&lt;a1&gt;</bpt>[9]<ept i='1'>&lt;/a1&gt;</ept><ept i='0'>&lt;/s0&gt;</ept> w przekonaniu, że już osiągnąłem cel mego bytu na świecie; dusza moja przeszła całkiem w ukochaną armatkę.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>I kept busy every moment, in the belief that I had already achieved the purpose of my existence in world; my soul went completely into the beloved cannon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Tymczasem zbliżaliśmy się coraz do brzegów Wisły; lody puściły już w wielu miejscach i widać było tu i owdzie występującą wodę.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>Meanwhile we drew closer and closer to the banks of the Vistula; ice was already giving way in many places and  here and there you could see water appearing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Pułkownik nasz, z tyką w ręku, pierwszy się puścił na lód, brodząc w wodzie po kolana, potem rozkazał nam iść za sobą.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>Our colonel, with a long pole in his hand, was first to go through the ice, wading in the water up to his knees, then he ordered us to follow him.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Iść za nim i to z naszemi armatami po tak słabym lodzie?</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>Follow him with our cannons over such weak ice?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Na ten rozkaz zbladłem jak śmierć, cała bowiem nasza przyszłość wojenna mogła utonąć.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>At this order I went pale as death, because our entire military future could drown.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Nakoniec przeszliśmy szczęśliwie i na drugim brzegu stanęliśmy z okrzykiem: Niech żyje Polska!</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>In the end we passed happily and we stopped on the opposite bank with the shout: Long live Poland!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Tego samego wieczora nastąpiło połączenie się z korpusikiem, przodem wysłanym z Warszawy.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>That same evening saw the joining of the corps, with the front sent from Warsaw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Oczekiwał on nas niecierpliwie; młodzi bowiem żołnierze wysokie mają wyobrażenie o potędze artylerji, a bardzo ich niepokoiło, że w przededniu spodziewanej bitwy nie mieli dział.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>They awaited us impatiently; because young soldiers have an elevated opinion of the power of artillery, and it worried them very much that on the eve of the expected battle they had no cannons.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Posłyszawszy turkot kół armatnich, cały obóz nieposiadał się z radości: „nasza artylerja nadciąga!</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>Having heard the rattle of cannon wheels, the whole camp lost possession of itself in joy: &quot;our artillery approaches!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Niech żyje artylerja!” wołano ze wszystkich stron i bieżono na naszę spotkanie i postawiono nas w środku obozu.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>Long live the artillery!&quot; they called from all sides and ran to meet us, and placed us in the centre of the camp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>My także z zapałem powitaliśmy naszych towarzyszy.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>We also enthusiastically greeted our comrades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Dotąd odbywając marsze w osamotnieniu, teraz znaleźliśmy się w tłumie dzielnych żołnierzy, których liczba wydawała się znaczną na oko.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>Until then marching in loneliness, now we were in a crowd of brave soldiers, whose number gave itself significance to the eye.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>To podniosło naszą ufność.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>That raised our confidence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Wszystkiego jednak <bpt i='0' x='0'>&lt;s0&gt;</bpt><bpt i='1' x='1'>&lt;a1&gt;</bpt>[10]<ept i='1'>&lt;/a1&gt;</ept><ept i='0'>&lt;/s0&gt;</ept> nie było więcej, jak dwanaście szwadronów, zajmujących szeroką przestrzeń.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>Only altogether there weren't more than twelve squadrons, filling a wide area.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Dumnie spoglądaliśmy na las zatkniętych lanc, których nowe chorągiewki iskrzyły się barwami, nieznającemi jeszcze krwi i kurzu.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>Proudly we looked at a forest of stuck lances, on which new flags sparkled with colours, still not knowing blood or dust.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Po wesołej i hucznej wieczerzy pokładliśmy się spać, kołysani dźwiękiem muzyki wojskowej i śpiewem mazurka.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>After a cheerful and grand supper we lay down to sleep, swung with the sound of military music and the singing of the mazurka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>O świcie, kiedy korpusik nasz wchodził do wsi, doleciały nas pomieszane krzyki.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>At dawn, when our corps entered the village, mixed shouts reached us.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Zatrzymujemy się; wysłano na zwiady i okazało się, że to okrzyki zwycięstwa!</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>We pulled in; they sent for reconnaissance and it turned out that these were shouts of victory!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Pierwszy to tryumf!</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>The first triumph!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Trzeba było widzieć, jak cieszyliśmy się nimi.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>You should have seen, how pleased we were with them.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Kozacy ci, brodacze, rozbrojeni, szli piechotą ze spuszczonemi głowami i kwaśną miną.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>These Cossacks, bearded, disarmed, walked with heads lowered and with sour expressions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>W Miarę, jak przechodzili koło nas, nasi młodzi żołnierze przedrwiwali z nich, klęli lub grozili.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>As they went by us, our young soldiers jeered at them, cursed or threatened.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>I mnie chętka brała robić to samo, ale obowiązek, przywiązany do stopnia, nie pozwalał na to, więc surowo ich gromiąc, rzekłem: „Polacy!</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>And I had a desire to do the same, but the duty attached to the rank didn't permit it, so severely reprimanding them, I said: &quot;Poles!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>szanujcie nieszczęście!</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>respect misfortune!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Wątpliwy bywa los wojny!</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>The fate of war is often doubtful!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Śmierć naszym wrogom!</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>Death to our enemies!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>litość nad zwyciężonymi!</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>Mercy to the conquered!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Niech żyje Polska!”</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>Long live Poland! &quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Żołnierze uspokoili się, spierunowani wspaniałością mych uczuć i sentencjonalną wymową.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>The soldiers calmed down, taken aback by the nobility of my emotions and sententious eloquence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Od niejakiego czasu zwrócił moją uwagę jeden stary kanonier, jadący obok mnie, który ciągle się wspinał na strzemionach, zadzierał głowę, szyję wyciągał ponad ramiona swoich towarzyszy.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>For some time my attention turned to one old gunner, riding beside me, who constantly climbed in his stirrups, lifted his head, neck craned over the shoulders of his comrades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>—Za czem tak patrzysz, Mateuszu?</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>&quot;What are you looking at, Mateusz?&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>—To te bestje, panie sierżancie, niech ich tam kaci porwą… I wskazał palcem na wzgórza, <bpt i='0' x='0'>&lt;s0&gt;</bpt><bpt i='1' x='1'>&lt;a1&gt;</bpt>[11]<ept i='1'>&lt;/a1&gt;</ept><ept i='0'>&lt;/s0&gt;</ept> będące przed nami.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>&quot;At those beasts, sergeant, may the hangman take them&quot;… and pointed his finger at hills, which were ahead of us.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Ujrzałem wtenczas, jak się coś czerniło na szczycie wzgórza.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>I saw then, how something was blackening the hilltop.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Byłyż to krzaki, czy kaszkiety moskiewskiej piechoty?</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>Where they bushes, or the caps of the Muscovite infantry?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Nie miałem czasu przypatrywać się dłużej, albowiem nadbiegli adjutanci, wołając z całej siły: „Artylerja naprzód!</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>I didn't have time to look longer, because the officers came running, calling with all their might: &quot;Forward artillery!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>stawać na pozycji!” Ruszyliśmy, co koń wyskoczył.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>stand in position!&quot; We moved, every horse jumping.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Padł strzał armatni i kula, zabiwszy nam konia, osypała nas ziemią i poleciała dalej, rykoszując.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>A cannon shot and the ball, having killed one of our horses, rained earth on us and flew onwards, ricocheting.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Zajęliśmy pagórek, wprost naprzeciw nieprzyjaciela, który podwoił ogień.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>We occupied the hill, directly opposite the enemy, who doubled fire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Szeroka płaszczyzna, obwiedziona krzakami i borem, roztaczała się przed nami.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>A wide plain, surrounded by bushes and forest, stretched before us.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>W środku niej, na wzgórzu, zatoczyli Moskale baterje dwunastu dział ciężkiego wagomiaru, które nas osypywały kulami i granatami.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>In the centre of it, on the hill, rolled a Muscovite battery of twelve heavy gauge cannons who powdered us with cannon balls and grenades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Za baterją widać było gęste szeregi jazdy, stojącej nieruchomie.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>Behind the battery you could see thick ranks of cavalry, standing motionless.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Nasza jazda podobnież stała spokojnie, zostawiając czas działaniu artylerji.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>Our cavalry similarly stood calmly, leaving time for the operations of the artillery.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Zauważyłem, iż żołnierze różnej broni zachowują podczas bitwy postawę i wyraz twarzy właciwy sobie.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>I noticed that soldiers of different weapons throughout the battle preserved the stance and the facial expression characteristic of themselves.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>I tak artylerzystą nie ma ani kawaleryjskiej rzutności, ani niecierpliwości piechura, lecz baczny na komendę, szybki i dokładny w każdem poruszeniu, zdaje się zachowywać zimną krew, chociaż oczy jego dymem gryzione, krwią zaszłe, brwi zmarszczone, twarz blada, usta ściśnięte, mowa krótka i twarda wyrażają zażartą wściekłość, tłumioną i koncentrowaną.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>And as the artilleryman has neither the cavalry's extravagance, nor the infantry's impatience, but attentive to command, fast and accurate amid all the commotion, appearing calm, though his eyes burned with the smoke, bloodshot, eyebrows furrowed, face pale, mouth clenched, speech short and hard, expressing fierce, suppressed and concentrated fury.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Śród tego ognia, mimo, że śmierć zmiatały głowy, nie przestano robić żarcików; każdym razem <bpt i='0' x='0'>&lt;s0&gt;</bpt><bpt i='1' x='1'>&lt;a1&gt;</bpt>[12]<ept i='1'>&lt;/a1&gt;</ept><ept i='0'>&lt;/s0&gt;</ept> co kula rykoszowała, młodzi żołnierze nie omieszkali rozmawiać z nią i dawać jej rady.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>In the middle of this fire, even though death swept past their heads, they didn't stop making jokes; every time each cannon ball ricocheted, the young soldiers made a point of talking to it, and to give it advice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Rykoszująca kula może być widzianą z daleka, jak skacze po polu, więc jeżeli szła na bok, na lewo, wołano na nią: „Gdzie lecisz, ślepa!</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>A ricocheting cannon ball can be seen from afar, as it jumps across the field, so if it was going to one side, to the left, they were calling to it: &quot;Where are you going, blind man!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>bierz się na prawo!” a jeżeli szła prosto, zachęcano ją: „dobrze, dobrze!” i tak rozmawiano z nią dopóki nie wpadła w sam środek linji nieprzyjacielskiej i dopiero dawano jej brawo.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>get to the right!&quot; and if it was going straight, they encouraged it: &quot;good, good!&quot; and so they spoke to it until it fell  right in the middle of the enemy line and then they were applauding it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Już nie wiem, ile godzin trwała ta kanonada.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>I don't know now, how many hours that cannonade lasted.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Chociaż gorączkowo mijaliśmy się przy działach, jednakowoż zabawka ta trwała za długo, aby nie pragnąć nadejścia nocy.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>Although we passed each other feverishly beside the cannon, in the same way this play lasted too long, to not wish for nightfall.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Artylerja rosyjska miała nad nami widocznie przewagę, tak co do liczby, jak i wagomiaru dział.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>The Russian artillery had an obvious advantage over us, both in numbers, and in cannon gauge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Ubito nam już kilku ludzi, wielu było ranionych, a wszyscy lubo nadzwyczaj zmęczeni, jednakowoż nie upadali na duchu i nikt ani myślał o odwrocie.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>They had already hit a few of our people, many were wounded, but everyone, although extremely tired, equally didn't sink in spirits and nobody even thought about retreat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Naraz od lewej strony okropnie ryknęły działa.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>Suddenly from the left cannons roared horribly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Moskale właśnie tam postawili nową baterję, którą nas ostrzeliwali z boku.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>The Muscovites had placed a new battery right there, which fired at us from the side.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Zwróciliśmy dwie nasze armatki przeciw tej nowej zaczepce, z którą trzeba było pogadać; lecz położenie nasze stawało się coraz przykrzejsze, bo sześcioma polowemi armatkami odpowiadać na dwadzieścia dział ciężkiego wagomiaru, to nieprzelewki!</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>We turned two of our cannons against this new threat, with whom we needed to chat; but our position was becoming more and more unpleasant, because six field cannons to answer twenty heavy gauge cannons is no small matter!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Nasi żołnierze na widok tej nierówności sił zdawali się być pomieszani.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>Our soldiers, at the sight of this imbalance of power, seemed to be stirred.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Już ruchy ich słabły, już wystrzały nasze rzadziej się odbywały, a nawet dykteryjki i żarciki całkiem ustały.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>Now their movements weakened, now our shots happened less frequently, and what's more the anecdotes and jokes ceased completely.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Zdaje się, że nasz dowódzca czekał na to, aż <bpt i='0' x='0'>&lt;s0&gt;</bpt><bpt i='1' x='1'>&lt;a1&gt;</bpt>[13]<ept i='1'>&lt;/a1&gt;</ept><ept i='0'>&lt;/s0&gt;</ept> Moskale rozdzielą swe siły, aby korzystać z tego momentu i uderzyć na nich; tak przynajmniej przypuszczam, aczkolwiek nie kuszą się rozprawiać o planie bitwy.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>It seems that our commander was waiting until the Muscovites separated their forces, in order to profit from that moment and strike them; I suppose, although they aren't tempting themselves to debate the battle plan. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Tyle wiem, że w najkrytyczniejszej chwili usłyszeliśmy od lewej strony tentent konnicy, pędzącej galopem i w kilka minut potem owa druga baterja zamilkła, gdyż była zdobytą.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>I only know that at the most critical moment we heard from the left a horse's hoofbeat, rushing at a gallop and a few minutes later that second battery went silent, when it was conquered.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Nasz dowódzca zawrócił się i poskoczył ku głównej sile naszych szwadronów, wołając: „Naprzód kłusem!</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>Our commander turned around and dashed to the main strength of our troops, calling: &quot;Forward at a trot!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>naprzód wiara!” I cała nasza jazda, uszykowana w dwa szeregi, posunęła się, mijając naszą baterję.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>everyone forward!” And our entire cavalry, drawn up in two rows, moved out, passing our battery.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>„Idą do szarży!” wołali nasi kanonierzy i zaraz zaprzestaliśmy strzelać.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>&quot;They're going to charge!&quot; cried our gunners and at once we ceased firing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Jakiż to widok?</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>How did it look?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Młode ułany z zapalonym wzrokiem, rozognioną twarzą, rwali się niecierpliwie naprzód, ale radzi nieradzi musieli słuchać surowych rozkazów dowódzcy, który ciągle powtarzał: „Kłusem!</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>The young lancers with eager gaze, fevered face, burst impatiently forward, but advised or unadvised they still needed to obey the strict orders of the commander, who still repeated: &quot;Trot!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>naprzód!</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>forward!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>kłusem!” Widać było z ruchu chorągiewek, jak gorączkowo drgały ręce żołnierzy.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>trot!&quot; You could see from the movement of the flags, how feverishly the soldiers' hands were twitching.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Nakoniec ozwały się trąby, zniżały się chorągiewki i już kopnięto się na nieprzyjaciela.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>In the end the trumpets sounded, flags descended and now they kicked themselves off towards the enemy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>„Naprzód!</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>&quot;Forward!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>galopem!</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>Gallop!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>naprzód wiara!”</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>everyone forward!&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Pognali!—Myśmy zostali przy naszych armatach, nic nie robiąc, a nawet nic nie myśląc.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>They took off— we stayed by our cannons, doing nothing, and even thinking nothing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Artylerja niedawno tak ruchliwa i hałaśliwa, zdawała się jak skamieniała.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>The artillery recently so busy and noisy, now seemed to be petrified.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Dusze nasze uleciały daleko i usiadły na ostrzach grotów ułańskich.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>Our souls flew far and rested on the tips of the lances.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Oto już blizko są Moskali!</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>Now the Muscovites are close!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Już moskiewskie szeregi rozwijają się, aby ich przyjąć.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>Already the Muscovite ranks are deploying, in order to receive them.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Kanonierzy powyłazili na lawety, na jaszyczki i patrzą w przestrzeń, podani naprzód z gębą otwartą; a była taka <bpt i='0' x='0'>&lt;s0&gt;</bpt><bpt i='1' x='1'>&lt;a1&gt;</bpt>[14]<ept i='1'>&lt;/a1&gt;</ept><ept i='0'>&lt;/s0&gt;</ept> cisza, że usłyszałbyś lot muchy.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>The gunners climbed on the gun carriages, on the ammunition carts and stare into space, looking ahead with gaping mouths; it was so quiet that you could hear the flight of a fly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Każdy z nas czuł, że od tego starcia się zawisł nasz los, los naszego wojska, może i Ojczyzny!</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>Each of us felt, that on this clash hung our fate, the fate of our army, perhaps even our homeland!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Była to chwila oczekiwania i strasznej niepewności, szczęściem trwała kilka tylko minut.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>It was a moment of expectation and terrible uncertainty, luckily lasting only a few minutes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Nasze ułany starli się z Moskalami na wyżynie, obie linje starły się ze sobą i pomieszały.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>Our cavalry clashed with the Muscovites on the high ground, both lines clashed with each other and mixed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>W całej tej masie zawrzało i cała masa znikła jak tuman kurzawy, pędzonej wiatrem.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>In the whole of this mass it boiled and the whole mass disappeared, like a dust cloud driven by the wind.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Nie wiem kto taki, ale ktoś między nami krzyknął na całe gardło—okrzyk ten przerwał grobową ciszę, ogłaszał bowiem zwycięstwo, wszakże nikt mu nie wtórował.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>I don't know who, but someone among us shouted at the top of his lungs—that shout broke the deathly silence, because he proclaimed victory, however nobody accompanied him.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>My bowiem, młodzi żołnierze, jeszcześmy nie rozumieli, ani odgadywali skutku tej bitwy, a przytem lękaliśmy się oddawać przedwczesnej radości.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>Because we, young soldiers, still we weren't understanding, nor guessing the outcome of this battle, but besides that we feared to yield to premature joy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Poczekajmy!</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>Wait!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>ten i ów mówił—dotąd niema nic pewnego; nic nie widać, wszyscy gdzieś się podzieli!</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>someone or other said—as yet there's nothing certain; nothing to be seen, everyone seems to have disappeared!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Nareszcie część tej masy, którą widzieliśmy, jak zginęła nam z oczu, zaczęła ku nam się zbliżać.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>Finally, the part of the mass that we could see, as it vanished from our sight, started to come towards us.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Po kolorach poznaliśmy naszych ułanów a i po okrzyku wojennym: Jeszcze Polska nie zginęła.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>By their colours we recognised our lancers and by the war cry: Poland Is Not Yet Lost.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Już nie ma co wątpić, zwycięstwo przy nas!</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>Now there's no doubt, victory is ours!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Zbliżająca się masa przedstawiała osobliwy widok.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>The approaching mass presented a peculiar spectacle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Widać w niej było mnóstwo pieszych żołnierzy rozmaitej broni, przytem furgony, jaszczyki, działa… Byli to jeńcy moskiewscy, zabrani z artylerją i całym taborem.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>In it you could see a lot of foot soldiers with diverse weapons, in addition wagons, ammunition carts, artillery pieces… There were Muscovite prisoners, captured with the artillery and the whole encampment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Nie potrafiłbym opisać naszej radości, tej szalonej radości!</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>I wouldn't be able to describe our joy, this frantic joy!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Jakto!</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>How can it be!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>cała ich artylerja!</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>their whole artillery!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>ta potężna <bpt i='0' x='0'>&lt;s0&gt;</bpt><bpt i='1' x='1'>&lt;a1&gt;</bpt>[15]<ept i='1'>&lt;/a1&gt;</ept><ept i='0'>&lt;/s0&gt;</ept> artylerja w naszym ręku.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>this mighty artillery in our hands.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Rzuciliśmy się obces na te puszki, ściskając je, pieszcząc się nimi, a ja sam na chwilę zapomniałem o mojej kochance, ośmiofuntówce.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>We rushed headlong upon these cans, pressing them, caressing them, and I myself for a moment forgot about my love, the eight-pounder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Piękneż to były te rosyjskie armaty, takie ogromne, nowe, doskonale umontowane i opatrzone we wszystko.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>Beautiful they were, these Russian cannons, so huge, new, well mounted and stocked with everything.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>—Patrzno, panie sierżancie—wołał kanonjer Mateusz—patrz, jakie czerwone, jakie błyszczące armaty mają te przeklęte Moskale.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>—Look, sergeant—the gunner Mateusz called out—look at what red, shining cannons these cursed Muscovites have!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Zacząłem rozkoszną ręką głaskać wypolerowaną powierzchnię spiżową, a wszyscy powtarzali chórem: „Ależ to się świecą te moskiewskie puszki!</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>I started with a delicate hand to stroke the polished bronze surface, and everyone repeated in chorus: &quot;Oh, but how these muscovite cans do shine!&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>„a jaki kaliber!” zauważył jeden kanonier, „to mi to kaliber!</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>&quot;and what a calibre&quot; noticed one gunner, &quot;that's the calibre for me!&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>to nie żadna pukawka!”</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>&quot;that's no peashooter!&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Zacząłem mierzyć wylot granatnika, a żołnierze powtarzali: „to nie żarty taka paszcza!”</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>I started measuring the muzzle of the cannon, and the soldiers repeated: &quot;those jaws are no joke!&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Potem, kiedyśmy zaczęli oglądać uprząż, znowu chórem wołano: „Ależ to tęgi rzemień mają te przeklęte Moskale!”</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>Then, when we started examining the harness, then again they called as a choir: &quot;Oh, what sturdy straps those cursed Muscovites have!&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Nie zgadnie nikt przecież, co nam sprawiło największą radość; oto ni mniej ni więcej, tylko zwykły owies, zabrany łupem.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>Nobody will guess in the end, what caused us the greatest joy; it was none other than ordinary oats, taken as spoils.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Nasza jazda nie miała już furażu, a Moskale mieli go poddostatkiem; ich furgony, jaszczyki, lawety nawet pełne były owsa.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>Our cavalry didn't have any more fodder, but the Muscovites had it in ample amounts; their wagons, caissons, gun carriages even, were full of oats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Żołnierze rzucili się nań łapczywie, napełniając nim worki, ładownice, kieszenie i powiadając, że nigdy jeszcze nie widzieli tak pięknego owsa.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>Soldiers rushed on them hungrily, filling sacks with them, cartridge cases, pockets, and saying that they had  never seen such beautiful oats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Nadjechał wódz i na jego widok zagrzmiał <bpt i='0' x='0'>&lt;s0&gt;</bpt><bpt i='1' x='1'>&lt;a1&gt;</bpt>[16]<ept i='1'>&lt;/a1&gt;</ept><ept i='0'>&lt;/s0&gt;</ept> okrzyk zapału i uwielbienia.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>The leader rode up and at the sight of him a shout of enthusiasm and worship thundered.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Snać bardzo był zmęczony, bo choć dzień chłodny, pot spływał z niego kroplami.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>Perhaps he was very tired, because despite a cool day, sweat flowed from him in drops.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Otoczyliśmy go gęstym tłumem.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>We surrounded him in a dense crowd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Śród ogólnego poruszenia i wybuchów radości, on jeden był spokojny i milczący, choć widocznie wzruszony.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>Amid the general commotion and bursts of joy, he alone was calm and silent, though visibly moved.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>—„Dzieci moje—rzekł do nas—przyrzekłem poprowadzić was na nieprzyjaciela; wy przyrzekliście pobić go—a tak i ja i wy dotrzymaliśmy słowa.”</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>&quot;My children&quot;, he said to us, &quot;I promised to lead you to the enemy; you promised to beat him—and so both you and I have kept our words.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Taki był koniec pamiętnego dnia pod Stoczek.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>Such was our memorable day at Stoczek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Z zapadającą nocą zaczęły się opowiadania przy obozowych ogniskach, Słuchaczów nie było, wszyscy bowiem mówili; wszyscy dzielnie się spisali w bitwie, wszyscy mieli dowcip—bo wszyscy byli szczęśliwi.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>With night falling stories began by the camp's bonfires, there were no listeners, because everyone spoke; everyone bravely acquitted themselves in battle, everyone had jokes—because everyone was happy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="PL">
+        <seg>Jeżeli przyjdzie na mnie ta błogosławiona godzina, że jeszcze będę mógł walczyć w obronie ojczyzny, widzieć armję moskiewską w popłochu, odszukać moją ukochaną ośmiofuntówkę i miotać z niej kule na złociste dachy stolicy carskiej, natenczas nazwę się szczęśliwym; a jednak nawet wówczas nie potrafiłbym czuć tego, czegom doświadczał w pierwszej bitwie, w bitwie pamiętnej pod Stoczek.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB">
+        <seg>If that blessed hour comes to me, that I can again fight for my country, to see the Muscovite army in panic, to seek out my beloved eight pounder and to hurl cannon balls from it at golden roofs of the Tsarist capital city, then I will call myself happy; but even then I wouldn't be able to feel that, which I experienced in the first battle, in the memorable Battle of Stoczek.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
