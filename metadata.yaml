@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32429
     wikipedia: http://en.wikipedia.org/wiki/Adam_Mickiewicz
 description: 'Translation of #27723'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28277#My-First-Battle--A-Sergeant-s-Story
 gutenberg_issued: '2009-03-07'
 gutenberg_type: Text
 identifiers:
